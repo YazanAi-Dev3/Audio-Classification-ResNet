@@ -17,8 +17,8 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [Your-Repo-URL]
-    cd [Your-Repo-Name]
+    git clone [https://github.com/YazanAi-Dev3/Audio-Classification-ResNet.git]
+    cd Audio-Classification-ResNet
     ```
 
 2.  **Install FFmpeg:** This project requires FFmpeg to process various audio formats. Please install it on your system. On Windows, the easiest way is using `winget`:
