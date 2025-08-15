@@ -2,7 +2,7 @@
 
 This project demonstrates a complete, multi-stage pipeline for analyzing and processing speech audio files. The system showcases an end-to-end solution that goes from classification to transcription and finally to audio regeneration.
 
-## ✨ Key Features
+##  Key Features
 
 -   **Stutter Detection (Classification):** A custom-trained `ResNet18` model analyzes spectrogram images of audio to classify the speech's fluency (e.g., normal, stuttered).
 -   **High-Accuracy Transcription (STT):** OpenAI's powerful `Whisper` model is used to generate a precise text transcription of the original audio.
@@ -11,7 +11,7 @@ This project demonstrates a complete, multi-stage pipeline for analyzing and pro
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙ Setup & Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -41,13 +41,13 @@ You are now ready to open and run the `Audio_Classification_Demo.ipynb` notebook
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 The entire workflow is demonstrated in the **`Audio_Classification_Demo.ipynb`** notebook. Open it and run the cells sequentially to see the full pipeline in action on sample audio files.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 -   Python
 -   PyTorch & Torchvision (for ResNet18 model)
